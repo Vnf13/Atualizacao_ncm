@@ -12,8 +12,8 @@ API que realiza o cruzamento de informações da lista de **NCMs do Sicomex** co
 ---
 
 ## 📋 Pré-requisitos
-- .NET Core / .NET Framework.  
-- Acesso à API De Olho no Imposto.  
+- .NET Core / .NET Framework  
+- Acesso à API De Olho no Imposto  
 
 ---
 
